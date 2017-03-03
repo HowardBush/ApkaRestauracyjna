@@ -65,5 +65,10 @@ D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.
 D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\res\drawable\byleco.png
+D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\res\drawable\contactus.png
+D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\res\drawable\contactus2.png
+D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\res\drawable\daniednia.png
+D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\res\drawable\fbsign.png
 D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\obj\Debug\RoseChicken.Android.dll.mdb
 D:\Documents\Visual Studio 2015\GitProjects\RoseChicken\RoseChicken\RoseChicken.Android\bin\Debug\RoseChicken.Android.dll.mdb

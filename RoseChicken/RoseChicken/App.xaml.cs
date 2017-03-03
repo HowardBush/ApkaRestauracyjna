@@ -13,7 +13,7 @@ namespace RoseChicken
 		{
 			InitializeComponent();
 
-			MainPage = new RoseChicken.MainPage();
+			MainPage = new NavigationPage(new RoseChicken.MainMenu());
 		}
 
 		protected override void OnStart ()
